@@ -31,7 +31,7 @@ Para ejecutar este proyecto, primeramente descarguelo y leugo instálelo localme
 
 ```
 $ git clone https://github.com/marcos006-dev/ave_problema_2.git
-$ cd problema_2
+$ cd ave_problema_2
 $ npm install
 $ npm start
 ```
