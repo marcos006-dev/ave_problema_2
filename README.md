@@ -27,7 +27,7 @@ pokémon de ese número posee este tipo.
 
 ## Configuracion
 
-Para ejecutar este proyecto, primeramente descarguelo y leugo instálelo localmente usando npm:
+Para ejecutar este proyecto, primeramente descarguelo y luego instálelo localmente usando npm:
 
 ```
 $ git clone https://github.com/marcos006-dev/ave_problema_2.git
